@@ -1,5 +1,5 @@
 import React, { Fragment } from "react";
-import "./confetti.scss";
+import "./confetti.css";
 
 interface ConfettiProps {
   open: boolean;
