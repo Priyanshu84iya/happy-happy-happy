@@ -1,12 +1,17 @@
 {
   "homepage": "https://happy-happy-happy.vercel.com",
   "name": "happy-happy-happy",
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "A magical digital birthday gift with interactive animations and personalized messages",
   "type": "module",
+  "keywords": ["birthday", "gift", "react", "animation", "celebration", "interactive"],
+  "author": "Priyanshu84iya",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Priyanshu84iya/happy-happy-happy.git"
+  },
   "scripts": {
     "dev": "vite",
-    "predeploy": "npm run build", 
-    "deploy": "gh-pages -d dist",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview"
@@ -16,7 +21,6 @@
     "@emotion/styled": "^11.14.0",
     "@mui/material": "^6.4.2",
     "@types/styled-components": "^5.1.34",
-    "gh-pages": "^6.3.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^7.1.5"
