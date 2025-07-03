@@ -4,7 +4,7 @@
 
 ![Birthday Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F12585&center=true&vCenter=true&width=700&lines=🎂+Happy+Birthday+Special+Gift+🎂;🎉+Interactive+Birthday+Celebration+🎉;💖+Make+Someone's+Day+Special+💖)
 
-[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://happy-happy-happy.vercel.com)
+[![Render](https://img.shields.io/badge/Deployed%20on-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://happy-happy-happy.onrender.com)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
@@ -46,13 +46,6 @@ Perfect for surprising someone special on their birthday with a personalized, in
 </tr>
 </table>
 
-## 🖼️ Preview
-
-<div align="center">
-  <img src="UI/1.png" alt="Main Page" width="250" style="border-radius: 10px; margin: 10px;">
-  <img src="UI/2.png" alt="Interactive Page" width="250" style="border-radius: 10px; margin: 10px;">
-  <img src="UI/3.png" alt="Gift Page" width="250" style="border-radius: 10px; margin: 10px;">
-</div>
 
 ## 🚀 Quick Start
 
@@ -110,10 +103,13 @@ Modify the birthday messages in:
 
 ## 🌐 Deployment
 
-### Deploy to Vercel (Recommended)
+### Deploy to Render (Recommended)
 1. Push your code to GitHub
-2. Connect your repo to [Vercel](https://vercel.com)
-3. Deploy automatically! 🚀
+2. Connect your repo to [Render](https://render.com)
+3. Create a new Static Site
+4. Set build command: `npm run build`
+5. Set publish directory: `dist`
+6. Deploy automatically! 🚀
 
 ### Manual Build
 ```bash
@@ -144,7 +140,7 @@ If this project helped you create something special, please consider:
 
 **Priyanshu84iya** - [GitHub Profile](https://github.com/Priyanshu84iya)
 
-🌐 **Live Demo:** [https://happy-happy-happy.vercel.com](https://happy-happy-happy.vercel.com)
+🌐 **Live Demo:** [https://happy-happy-happy.onrender.com](https://happy-happy-happy.onrender.com)
 
 ---
 
